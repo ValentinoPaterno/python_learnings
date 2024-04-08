@@ -13,6 +13,3 @@ print(type(["Pepe", "Guillermo", 1])) # list
 print(type({"Nombre": "Valentino", "Apellido": "Paterno", "Edad": 20})) #dictionary
 print(type(("Pepe", "Sandra", "Kira"))) # tuple
 print(type({1, 3, 2, 5})) #set
-
-
-
