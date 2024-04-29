@@ -1,0 +1,9 @@
+{
+    "name": "valentino",
+    "country": "argentina",
+    "city": "corrientes",
+    "skills": [
+        "Python",
+        "Django"
+    ]
+}
